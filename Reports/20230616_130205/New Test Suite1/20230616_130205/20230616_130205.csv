@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite1,Chrome 114.0.0.0,,,2023-06-16 13:02:21,2023-06-16 13:02:36,14.712s,PASSED
+,,,,,,,
+Test Cases/Test Case1,Chrome 114.0.0.0,,,2023-06-16 13:02:22,2023-06-16 13:02:36,14.115s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-16 13:02:23,2023-06-16 13:02:29,6.803s,PASSED
+"navigateToUrl(""https://www.google.com"")",Chrome 114.0.0.0,,,2023-06-16 13:02:29,2023-06-16 13:02:31,1.885s,PASSED
+delay(3),Chrome 114.0.0.0,,,2023-06-16 13:02:31,2023-06-16 13:02:34,3.095s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-06-16 13:02:34,2023-06-16 13:02:36,1.497s,PASSED
